@@ -1,0 +1,24 @@
+.container {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+  background-color: #1e211f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formContainer {
+  height: 70%;
+  width: 50%;
+  background-color: beige;
+  display: flex;
+  align-items: center;
+}
+
+.fieldContainer {
+  height: 20%;
+  background-color: red;
+}
